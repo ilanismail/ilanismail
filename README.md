@@ -14,7 +14,7 @@
 https://www.npmjs.com/package/bitrepo
 
 ```shell
-npx gitstream
+npx bitrepo
 ```
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
