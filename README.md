@@ -10,6 +10,7 @@
 - 👨‍💻 &nbsp; Robotics, Machine Learning, Automations, Web Designer.
 
 <h2>If you want to try out my npm library.</h2>
+- https://www.npmjs.com/~ilan.ismail
 
 ```shell
 npx gitstream
