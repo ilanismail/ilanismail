@@ -11,10 +11,10 @@
 
 <h2>If you want to try out my npm library.</h2>
 
-https://www.npmjs.com/package/nova
+https://www.npmjs.com/package/vortex
 
 ```shell
-npx nova
+npx vortex
 ```
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
