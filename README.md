@@ -9,7 +9,8 @@
 - 🌱 &nbsp; Learning more about AI, databases, neural networks.
 - 👨‍💻 &nbsp; Robotics, Machine Learning, Automations, Web Designer.
 
-##If you want to try out my npm library.
+<h2>If you want to try out my npm library.</h2>
+
 ```shell
 npx gitstream
 ```
