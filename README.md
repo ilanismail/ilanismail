@@ -17,9 +17,6 @@ https://www.npmjs.com/package/bitrepo
 npx bitrepo
 ```
 
-<img width="562" alt="Screen Shot 2023-06-03 at 6 36 47 PM" src="https://github.com/ilanismail/ilanismail/assets/128612501/59b7af71-9e9d-48c7-b28d-da57f93b924a">
-
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
