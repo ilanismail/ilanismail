@@ -11,11 +11,16 @@
 
 <h2>If you want to try out my npm library.</h2>
 
-https://www.npmjs.com/package/optima
+https://www.npmjs.com/package/floria
+
+- To use it make sure you have Node.Js downloaded.
+- Then run the following command in your project folder:
 
 ```shell
-npx optima
+npx floria
 ```
+
+- Then select a project you want to clone and start using them.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
