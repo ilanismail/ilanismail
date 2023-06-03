@@ -11,10 +11,10 @@
 
 <h2>If you want to try out my npm library.</h2>
 
-https://www.npmjs.com/package/bitrepo
+https://www.npmjs.com/package/nova
 
 ```shell
-npx bitrepo
+npx nova
 ```
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
