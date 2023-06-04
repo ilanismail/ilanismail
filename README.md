@@ -11,13 +11,13 @@
 
 <h2>If you want to try out my npm library.</h2>
 
-https://www.npmjs.com/package/floria
+https://www.npmjs.com/package/novax
 
 - To use it make sure you have Node.Js downloaded.
 - Then run the following command in your project folder:
 
 ```shell
-npx floria
+npx novax
 ```
 
 - Then select a project you want to clone and start using them.
