@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👨 &nbsp; 14y maldivian programmer.
+- 👨 &nbsp; 15y maldivian programmer.
 - 🤔 &nbsp; Exploring new technologies.
 - 🌱 &nbsp; Learning more about AI, databases, neural networks.
 - 👨‍💻 &nbsp; Robotics, Machine Learning, Automations, Web Designer.
